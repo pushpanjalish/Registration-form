@@ -104,3 +104,14 @@ h2 {
     background-color: lightgoldenrodyellow;
     width: 618px;
 }
+@media screen and (max-width: 767px){
+	*{
+	font-size: 18px;
+	font-family: Times New Roman;
+
+}
+body{
+	margin:0px;
+	padding: 2px;
+}
+}
